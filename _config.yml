@@ -50,7 +50,7 @@ google_site_verification: x9wNN6ugtB44hy_xUtLHbMZ7bwg7hdathQ1fvKS-M5k # fill in 
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: 85481203 # fill in your Google Analytics ID
+  id: G-QY7R4VCK24 # fill in your Google Analytics ID
 
 # Prefer color scheme setting.
 #
@@ -73,17 +73,17 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/images/foundy-round-150-150.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: /assets/images/foundy-caricaturize-PhotoFunia-1510894947.jpg # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
 
 comments:
-  active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: giscus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
@@ -93,13 +93,13 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo: foundy/foundy.github.io # <gh-username>/<repo>
+    repo_id: R_kgDOLRnfCw
+    category: Announcements
+    category_id: DIC_kwDOLRnfC84CdqM6
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
-    lang: # optional, default to the value of `site.lang`
+    lang: ko # optional, default to the value of `site.lang`
     reactions_enabled: # optional, default to the value of `1`
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
