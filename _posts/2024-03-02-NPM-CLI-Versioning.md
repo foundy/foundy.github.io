@@ -427,7 +427,7 @@ npm version prerelease      # v1.1.1-beta.0
 
 ### 도움이 될 만한 링크
 
-* NPM CLI version : https://docs.npmjs.com/cli/version
-* Github node-semver: https://github.com/npm/node-semver
-* Semantic Versioning: https://semver.org/
-* Semantic Versioning - 김대현님 번역본: https://semver.org/lang/ko/
+* [NPM CLI version](https://docs.npmjs.com/cli/version)
+* [Github node-semver](https://github.com/npm/node-semver)
+* [Semantic Versioning](https://semver.org)
+* [Semantic Versioning - 김대현님 번역본](https://semver.org/lang/ko/)
