@@ -48,6 +48,7 @@ Node:          Configures a Node API application with your framework of choice.
 ```
 
 ## Options
+
 | Name           | Type    | Default        | Description                                                  |
 |----------------|---------|----------------|--------------------------------------------------------------|
 | allPrompts     | boolean | false          | true인 경우 아래 대화형 프롬프트를 추가로 보여줍니다.<br>- 메인 브랜치 명 (default main)<br>- 패키지 매니저 (default NPM) |
