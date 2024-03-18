@@ -1,3 +1,11 @@
+---
+title: NPM - idealTree buildDeps 지연 현상
+date: 2024-03-18 15:00:00 +0800
+categories: [NPM]
+tags: [npm, registry]     # TAG names should always be lowercase
+---
+
+
 # NPM - idealTree buildDeps 지연 현상
 
 
