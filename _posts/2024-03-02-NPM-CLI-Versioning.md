@@ -20,7 +20,7 @@ javascript 프로젝트를 진행하다 보면 버전관리를 위해 package.js
 
 git hook이나 shell 설정 또는 npm script에 추가해서 사용할 수도 있겠지만.. 간편하게 사용하기에는 npm 내장 명령어를 사용하는 것도 좋을 것 같아 정리해봅니다.
 
-참고로 package.json의 version은 [Semantic Versioning](http://semver.org/)을 기준으로 명시를 하는데 npm Dependencies로 사용되는 [semver](https://github.com/npm/node-semver) 유틸리티를 사용하여 응용도 가능합니다.
+참고로 package.json의 version은 [Semantic Versioning](https://semver.org/)을 기준으로 명시를 하는데 npm Dependencies로 사용되는 [semver](https://github.com/npm/node-semver) 유틸리티를 사용하여 응용도 가능합니다.
 
 > 수동 업데이트 귀차니즘
 
@@ -431,5 +431,5 @@ npm version prerelease      # v1.1.1-beta.0
 
 * NPM CLI version : https://docs.npmjs.com/cli/version
 * Github node-semver: https://github.com/npm/node-semver
-* Semantic Versioning: http://semver.org/
-* Semantic Versioning - 김대현님 번역본: http://semver.org/lang/ko/
+* Semantic Versioning: https://semver.org/
+* Semantic Versioning - 김대현님 번역본: https://semver.org/lang/ko/
