@@ -4,8 +4,6 @@ date: 2024-03-02 05:00:00 +0800
 categories: [NPM, VERSIONING]
 tags: [npm, versioning]     # TAG names should always be lowercase
 ---
-
-# Blog 백업 - NPM CLI 명령어로 package.json 버전 관리하기
 > package.json의 version
 
 javascript 프로젝트를 진행하다 보면 버전관리를 위해 package.json의 version 정보를 활용하는 경우가 많습니다.

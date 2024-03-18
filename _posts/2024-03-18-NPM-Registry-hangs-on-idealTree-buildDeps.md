@@ -5,10 +5,6 @@ categories: [NPM]
 tags: [npm, registry]     # TAG names should always be lowercase
 ---
 
-
-# NPM - idealTree buildDeps 지연 현상
-
-
 ```bash
 # 현재 NPM의 버전을 체크
 > npm -v
