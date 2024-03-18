@@ -1,6 +1,6 @@
 ---
 title: Nx CLI Command - Workspace 생성
-date: 2024-03-02 10:30:00 +0800
+date: 2024-03-18 10:30:00 +0800
 categories: [Nx, MicroFrontends, Monorepo]
 tags: [nx, react, react-monorepo, nonorepo, create-nx-workspace, mfe, microfrontend, microfrontends]     # TAG names should always be lowercase
 ---
@@ -8,6 +8,7 @@ tags: [nx, react, react-monorepo, nonorepo, create-nx-workspace, mfe, microfront
 > [Nx Docs](https://nx.dev/nx-api/nx/documents/create-nx-workspace)에는 간략하게 설명되어 있어 파악이 어려운 부분들을 정리하고자 작성한 포스트입니다.
 > 
 > Version: create-nx-workspace@18.1.1
+
 # create-ax-workspace
 Nx workspace를 생성합니다.  (참고: [create-nx-workspace - CLI command](https://nx.dev/nx-api/nx/documents/create-nx-workspace))
 
