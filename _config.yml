@@ -49,6 +49,11 @@ google_site_verification: x9wNN6ugtB44hy_xUtLHbMZ7bwg7hdathQ1fvKS-M5k # fill in 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
+google_tag_manager:
+  id: GTM-KQGWN4MH
+
+# Keep the direct GA4 tag until the equivalent GTM tag is published and
+# verified, then remove this setting to avoid duplicate page_view events.
 google_analytics:
   id: G-QY7R4VCK24 # fill in your Google Analytics ID
 
